@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Users" max_length="40" name="x_671826_sbe_works_users" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="FirstName" max_length="40" name="firstname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
